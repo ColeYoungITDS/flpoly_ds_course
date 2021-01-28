@@ -1,23 +1,23 @@
-## First Name Last Name
+## Cole Young
 
-### Term Year 
+### 4
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+-Introduction to Data Science(SP 2021_COP2073.01 I&T)
 
-- Course 2
+-Operations Research(SP 2021_EGN3448.01FX ENGR)
 
-- Course 3
+-Software Engineering(SP 2021_CEN4010.01OL ENGR)
 
-- Course 4
+-Time Series Modeling and Forecasting(SP 2021_CAP4763.01OL I&T)
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Scuba Diving
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Godzilla Movies [Why godzilla will win] (https://www.digitalspy.com/movies/a35278596/godzilla-vs-kong-theory-monsterverse/)
