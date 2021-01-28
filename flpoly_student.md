@@ -20,4 +20,4 @@ I am _passionate about_:
 
 - Scuba Diving
 
-- Godzilla Movies [Why godzilla will win] (https://www.digitalspy.com/movies/a35278596/godzilla-vs-kong-theory-monsterverse/)
+- Godzilla Movies [Why godzilla will win](https://www.digitalspy.com/movies/a35278596/godzilla-vs-kong-theory-monsterverse/)
